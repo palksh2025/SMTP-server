@@ -1,5 +1,5 @@
 # Project Title
-Node.js SMTP (Simple Mail Transfer Protocol) Server
+Node.js backend SMTP (Simple Mail Transfer Protocol) Server
 
 ## Project Description
 A lightweight SMTP server designed to receive, process, and log incoming email streams. Deployed on AWS EC2 and routed via Cloudflare.
